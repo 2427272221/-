@@ -194,56 +194,5 @@ To ensure your product reaches this influential audience, reserve your space **[
 
 [![Daily Dose of Data Science](https://substackcdn.com/image/fetch/w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5dc1fee-2d1e-4892-b219-4b96f6998ab5_288x288.png)](https://substack.com/home/post/p-150416240?utm_campaign=post\&utm_medium=web)
 
-[Daily Dose of Data Science](https://substack.com/home/post/p-150416240?utm_campaign=post\&utm_medium=web)
-
-[5 Chunking Strategies For RAG](https://substack.com/home/post/p-150416240?utm_campaign=post\&utm_medium=web)
-
-[Copy link]()
-
-[Facebook]()
-
-[Email]()
-
-[Notes]()
-
-[More]()
-
-[3](https://blog.dailydoseofds.com/p/5-chunking-strategies-for-rag/comments)
-
-[6]()
-
-[Share](javascript:void\(0\))
-
-PreviousNext
-
-#### Discussion about this post
-
-Comments
-
-Restacks
-
-![](https://substackcdn.com/image/fetch/w_64,h_64,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Flogged-out.png)
-
-[![](https://substackcdn.com/image/fetch/w_64,h_64,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack.com%2Fimg%2Favatars%2Fblack.png)](https://substack.com/profile/280936789-alex?utm_source=comment)
-
-[alex](https://substack.com/profile/280936789-alex?utm_source=substack-feed-item)
-
-[Oct 27](https://blog.dailydoseofds.com/p/5-chunking-strategies-for-rag/comment/74310617 "Oct 27, 2024, 3:22 PM")
-
-Thanks so much for sharing, BTW, I'd like to know what tool you used to draw the sketch in gif format, I really like the dynamics!
-
-Expand full comment
-
-[Reply]()
-
-[Share]()
-
-[1 reply](https://blog.dailydoseofds.com/p/5-chunking-strategies-for-rag/comment/74310617)
-
-[![](https://substackcdn.com/image/fetch/w_64,h_64,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb1d7469-afac-41ce-8249-c200b3c547ad_144x144.png)](https://substack.com/profile/271315401-abdul-wasea?utm_source=comment)
-
-[Abdul wasea](https://substack.com/profile/271315401-abdul-wasea?utm_source=substack-feed-item)
-
-[Nov 9](https://blog.dailydoseofds.com/p/5-chunking-strategies-for-rag/comment/76339838 "Nov 9, 2024, 1:11 PM")
 
 
